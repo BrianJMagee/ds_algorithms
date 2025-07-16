@@ -13,3 +13,5 @@ def binary_search(collection, target):
         else:
             return middle
     return -1
+
+#Searches can only be used on sorted arrays
